@@ -211,19 +211,14 @@ npm run dev
 
 ## 九、核心功能截图
 
-> 截图占位：将实际运行截图放入 `docs/images/` 目录后即可正常显示。
-
-**1. 智能问答与 Markdown 表格渲染**
-
+### 1. 智能问答与 Markdown 表格渲染
 ![聊天界面](docs/images/chat.png)
 
-**2. RAG 知识库检索（运维 SOP 问答）**
-
+### 2. RAG 知识库检索（运维 SOP 问答）
 ![RAG 检索](docs/images/rag.png)
 
-**3. 高危操作两阶段确认**
-
-![重启确认](docs/images/restart-confirm.png)
+### 3. 高危操作两阶段确认
+![重启确认](docs/images/restart.png)
 
 ## 十、安全设计
 
